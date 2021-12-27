@@ -1,0 +1,5 @@
+API/
+env/
+save_weights/
+__pycache__
+Sentiment_analysis_for_candidate.pdf
